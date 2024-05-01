@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TAP\\23April\\PersonalInfo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B18BFFCF-E680-4FFB-A639-DC8626169DFC}|PersonalInfoTest\\PersonalInfoTest.csproj|d:\\tap\\23april\\personalinfo\\personalinfotest\\utility\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18BFFCF-E680-4FFB-A639-DC8626169DFC}|PersonalInfoTest\\PersonalInfoTest.csproj|solutionrelative:personalinfotest\\utility\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C9AFF3-79C8-4299-87AC-ACA527F232F0}|ProductWebApplication\\ProductWebApplication.csproj|d:\\tap\\23april\\personalinfo\\productwebapplication\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C9AFF3-79C8-4299-87AC-ACA527F232F0}|ProductWebApplication\\ProductWebApplication.csproj|solutionrelative:productwebapplication\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C9AFF3-79C8-4299-87AC-ACA527F232F0}|ProductWebApplication\\ProductWebApplication.csproj|d:\\tap\\23april\\personalinfo\\productwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C9AFF3-79C8-4299-87AC-ACA527F232F0}|ProductWebApplication\\ProductWebApplication.csproj|solutionrelative:productwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C8DDF8-254B-4929-A920-DD6C23DEFF61}|ProductCatalog\\ProductCatalog.csproj|d:\\tap\\23april\\personalinfo\\productcatalog\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C8DDF8-254B-4929-A920-DD6C23DEFF61}|ProductCatalog\\ProductCatalog.csproj|solutionrelative:productcatalog\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C8DDF8-254B-4929-A920-DD6C23DEFF61}|ProductCatalog\\ProductCatalog.csproj|d:\\tap\\23april\\personalinfo\\productcatalog\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C8DDF8-254B-4929-A920-DD6C23DEFF61}|ProductCatalog\\ProductCatalog.csproj|solutionrelative:productcatalog\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75BA0FF-F2D5-4B0D-A9FF-D17518D9289F}|ProductTestProject\\ProductTestProject.csproj|d:\\tap\\23april\\personalinfo\\producttestproject\\productapitest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75BA0FF-F2D5-4B0D-A9FF-D17518D9289F}|ProductTestProject\\ProductTestProject.csproj|solutionrelative:producttestproject\\productapitest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18BFFCF-E680-4FFB-A639-DC8626169DFC}|PersonalInfoTest\\PersonalInfoTest.csproj|d:\\tap\\23april\\personalinfo\\personalinfotest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18BFFCF-E680-4FFB-A639-DC8626169DFC}|PersonalInfoTest\\PersonalInfoTest.csproj|solutionrelative:personalinfotest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18BFFCF-E680-4FFB-A639-DC8626169DFC}|PersonalInfoTest\\PersonalInfoTest.csproj|d:\\tap\\23april\\personalinfo\\personalinfotest\\sampledata\\personinfo.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B18BFFCF-E680-4FFB-A639-DC8626169DFC}|PersonalInfoTest\\PersonalInfoTest.csproj|solutionrelative:personalinfotest\\sampledata\\personinfo.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F72664-340A-473B-A94F-566456E1757F}|ProductApp\\ProductApp.csproj|d:\\tap\\23april\\personalinfo\\productapp\\promanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F72664-340A-473B-A94F-566456E1757F}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\promanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8961D32-41D4-4CE6-9285-17D97A5557AA}|PersonalDetails\\PersonalDetails.csproj|d:\\tap\\23april\\personalinfo\\personaldetails\\hrmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8961D32-41D4-4CE6-9285-17D97A5557AA}|PersonalDetails\\PersonalDetails.csproj|solutionrelative:personaldetails\\hrmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8961D32-41D4-4CE6-9285-17D97A5557AA}|PersonalDetails\\PersonalDetails.csproj|d:\\tap\\23april\\personalinfo\\personaldetails\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8961D32-41D4-4CE6-9285-17D97A5557AA}|PersonalDetails\\PersonalDetails.csproj|solutionrelative:personaldetails\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F72664-340A-473B-A94F-566456E1757F}|ProductApp\\ProductApp.csproj|d:\\tap\\23april\\personalinfo\\productapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F72664-340A-473B-A94F-566456E1757F}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\TAP\\23April\\PersonalInfo\\ProductWebApplication\\Controller\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductWebApplication\\Controller\\ProductController.cs",
+              "ToolTip": "D:\\TAP\\23April\\PersonalInfo\\ProductWebApplication\\Controller\\ProductController.cs",
+              "RelativeToolTip": "ProductWebApplication\\Controller\\ProductController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:14:25.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "D:\\TAP\\23April\\PersonalInfo\\PersonalInfoTest\\Utility\\DataManager.cs",
+              "RelativeDocumentMoniker": "PersonalInfoTest\\Utility\\DataManager.cs",
+              "ToolTip": "D:\\TAP\\23April\\PersonalInfo\\PersonalInfoTest\\Utility\\DataManager.cs",
+              "RelativeToolTip": "PersonalInfoTest\\Utility\\DataManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:18:19.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductAPITest.cs",
+              "DocumentMoniker": "D:\\TAP\\23April\\PersonalInfo\\ProductTestProject\\ProductAPITest.cs",
+              "RelativeDocumentMoniker": "ProductTestProject\\ProductAPITest.cs",
+              "ToolTip": "D:\\TAP\\23April\\PersonalInfo\\ProductTestProject\\ProductAPITest.cs",
+              "RelativeToolTip": "ProductTestProject\\ProductAPITest.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBIAAACEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T12:10:32.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TAP\\23April\\PersonalInfo\\ProductWebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "ProductWebApplication\\Program.cs",
+              "ToolTip": "D:\\TAP\\23April\\PersonalInfo\\ProductWebApplication\\Program.cs",
+              "RelativeToolTip": "ProductWebApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:34:49.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\TAP\\23April\\PersonalInfo\\ProductCatalog\\Product.cs",
+              "RelativeDocumentMoniker": "ProductCatalog\\Product.cs",
+              "ToolTip": "D:\\TAP\\23April\\PersonalInfo\\ProductCatalog\\Product.cs",
+              "RelativeToolTip": "ProductCatalog\\Product.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T05:26:30.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "D:\\TAP\\23April\\PersonalInfo\\ProductCatalog\\ProductManager.cs",
+              "RelativeDocumentMoniker": "ProductCatalog\\ProductManager.cs",
+              "ToolTip": "D:\\TAP\\23April\\PersonalInfo\\ProductCatalog\\ProductManager.cs",
+              "RelativeToolTip": "ProductCatalog\\ProductManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T05:32:51.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonInfo.json",
+              "DocumentMoniker": "D:\\TAP\\23April\\PersonalInfo\\PersonalInfoTest\\SampleData\\PersonInfo.json",
+              "RelativeDocumentMoniker": "PersonalInfoTest\\SampleData\\PersonInfo.json",
+              "ToolTip": "D:\\TAP\\23April\\PersonalInfo\\PersonalInfoTest\\SampleData\\PersonInfo.json",
+              "RelativeToolTip": "PersonalInfoTest\\SampleData\\PersonInfo.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-23T10:13:13.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\TAP\\23April\\PersonalInfo\\PersonalInfoTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "PersonalInfoTest\\UnitTest1.cs",
+              "ToolTip": "D:\\TAP\\23April\\PersonalInfo\\PersonalInfoTest\\UnitTest1.cs",
+              "RelativeToolTip": "PersonalInfoTest\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:11:48.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProManager.cs",
+              "DocumentMoniker": "D:\\TAP\\23April\\PersonalInfo\\ProductApp\\ProManager.cs",
+              "RelativeDocumentMoniker": "ProductApp\\ProManager.cs",
+              "ToolTip": "D:\\TAP\\23April\\PersonalInfo\\ProductApp\\ProManager.cs",
+              "RelativeToolTip": "ProductApp\\ProManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T07:19:54.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HRManager.cs",
+              "DocumentMoniker": "D:\\TAP\\23April\\PersonalInfo\\PersonalDetails\\HRManager.cs",
+              "RelativeDocumentMoniker": "PersonalDetails\\HRManager.cs",
+              "ToolTip": "D:\\TAP\\23April\\PersonalInfo\\PersonalDetails\\HRManager.cs",
+              "RelativeToolTip": "PersonalDetails\\HRManager.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwBIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:40:05.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\TAP\\23April\\PersonalInfo\\PersonalDetails\\Person.cs",
+              "RelativeDocumentMoniker": "PersonalDetails\\Person.cs",
+              "ToolTip": "D:\\TAP\\23April\\PersonalInfo\\PersonalDetails\\Person.cs",
+              "RelativeToolTip": "PersonalDetails\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:10:46.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TAP\\23April\\PersonalInfo\\ProductApp\\Program.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Program.cs",
+              "ToolTip": "D:\\TAP\\23April\\PersonalInfo\\ProductApp\\Program.cs",
+              "RelativeToolTip": "ProductApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T07:15:18.296Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

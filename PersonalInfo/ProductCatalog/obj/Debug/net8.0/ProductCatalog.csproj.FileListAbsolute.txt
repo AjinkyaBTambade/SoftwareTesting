@@ -1,0 +1,11 @@
+D:\TAP\23April\PersonalInfo\ProductCatalog\bin\Debug\net8.0\ProductCatalog.deps.json
+D:\TAP\23April\PersonalInfo\ProductCatalog\bin\Debug\net8.0\ProductCatalog.dll
+D:\TAP\23April\PersonalInfo\ProductCatalog\bin\Debug\net8.0\ProductCatalog.pdb
+D:\TAP\23April\PersonalInfo\ProductCatalog\obj\Debug\net8.0\ProductCatalog.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\23April\PersonalInfo\ProductCatalog\obj\Debug\net8.0\ProductCatalog.AssemblyInfoInputs.cache
+D:\TAP\23April\PersonalInfo\ProductCatalog\obj\Debug\net8.0\ProductCatalog.AssemblyInfo.cs
+D:\TAP\23April\PersonalInfo\ProductCatalog\obj\Debug\net8.0\ProductCatalog.csproj.CoreCompileInputs.cache
+D:\TAP\23April\PersonalInfo\ProductCatalog\obj\Debug\net8.0\ProductCatalog.dll
+D:\TAP\23April\PersonalInfo\ProductCatalog\obj\Debug\net8.0\refint\ProductCatalog.dll
+D:\TAP\23April\PersonalInfo\ProductCatalog\obj\Debug\net8.0\ProductCatalog.pdb
+D:\TAP\23April\PersonalInfo\ProductCatalog\obj\Debug\net8.0\ref\ProductCatalog.dll

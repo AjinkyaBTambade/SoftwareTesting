@@ -1,0 +1,11 @@
+D:\TAP\23April\PersonalInfo\PersonalDetails\bin\Debug\net8.0\PersonalDetails.deps.json
+D:\TAP\23April\PersonalInfo\PersonalDetails\bin\Debug\net8.0\PersonalDetails.dll
+D:\TAP\23April\PersonalInfo\PersonalDetails\bin\Debug\net8.0\PersonalDetails.pdb
+D:\TAP\23April\PersonalInfo\PersonalDetails\obj\Debug\net8.0\PersonalDetails.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\23April\PersonalInfo\PersonalDetails\obj\Debug\net8.0\PersonalDetails.AssemblyInfoInputs.cache
+D:\TAP\23April\PersonalInfo\PersonalDetails\obj\Debug\net8.0\PersonalDetails.AssemblyInfo.cs
+D:\TAP\23April\PersonalInfo\PersonalDetails\obj\Debug\net8.0\PersonalDetails.csproj.CoreCompileInputs.cache
+D:\TAP\23April\PersonalInfo\PersonalDetails\obj\Debug\net8.0\PersonalDetails.dll
+D:\TAP\23April\PersonalInfo\PersonalDetails\obj\Debug\net8.0\refint\PersonalDetails.dll
+D:\TAP\23April\PersonalInfo\PersonalDetails\obj\Debug\net8.0\PersonalDetails.pdb
+D:\TAP\23April\PersonalInfo\PersonalDetails\obj\Debug\net8.0\ref\PersonalDetails.dll
